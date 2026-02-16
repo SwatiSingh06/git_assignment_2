@@ -5,4 +5,4 @@ Semester : IV
 
 update by Pooja Luhar (collaborator)
 README fixed
-Conflict made by me
+conflict resolved done
