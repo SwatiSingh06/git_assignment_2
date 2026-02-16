@@ -4,3 +4,4 @@ COURSE : Software Engineering - BCS
 Semester : IV
 
 update by Pooja Luhar (collaborator)
+README fixed
