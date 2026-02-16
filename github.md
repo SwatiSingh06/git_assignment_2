@@ -6,3 +6,6 @@
 6. Releases
 7. Projects
 8. Wiki
+
+9. Github Discussions
+10. Github Codespaces
