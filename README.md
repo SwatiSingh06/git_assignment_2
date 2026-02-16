@@ -1,2 +1,4 @@
-# git_assignment_2
-GIT LAB ASSIGNEMNT - 2
+Name : Swati Singh
+Roll No : 2024-BCS-075
+COURSE : Software Engineering - BCS
+Semester : IV
